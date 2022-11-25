@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Programmer,Swift**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arslansly](https://github.com/arslansly)
+- 👨‍💻 All of my projects are available at [https://github.com/arslansly](arslansly)
 
-- 📝 I regularly write articles on [https://medium.com/@arslansulo](https://medium.com/@arslansulo)
+- 📝 I regularly write articles on [https://medium.com/@arslansulo](arslansulo)
 
 - 💬 Ask me about **Swift,C#,ASP.NET**
 
